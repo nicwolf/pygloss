@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"num_unique_answers	function"
+			],
+			[
+				"uni",
+				"unique_answers	statement"
+			],
+			[
+				"tra",
+				"translate_integer	function"
+			],
+			[
+				"base",
+				"base_10_number	statement"
+			],
+			[
+				"trans",
+				"translated_number	statement"
+			],
+			[
+				"base_",
+				"base_10_number	statement"
+			],
+			[
+				"split",
+				"split_number	statement"
+			],
+			[
+				"get",
+				"get_min_max	function"
+			],
+			[
+				"check",
+				"check_call	function"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"text",
+				"text_styles	statement"
+			],
+			[
+				"window",
+				"window_data	statement"
+			],
+			[
+				"plot",
+				"plot_all"
+			],
+			[
+				"star",
+				"start_row	statement"
+			],
+			[
+				"descr",
+				"description	statement"
+			],
+			[
+				"inpu",
+				"input_base	statement"
+			],
+			[
+				"input",
+				"input_file	statement"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"arr",
+				"arr_ref"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/iPython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/iPython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "lint",
+		"selected_items":
+		[
+			[
+				"lint",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"pad",
+				"Pad: Add Padding to Line or Selection"
+			],
+			[
+				"disa",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"ssid",
+				"Set Syntax: Interactive Data Language"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssidl",
+				"Set Syntax: Interactive Data Language"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"branch",
+				"Git: Change Branch"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"lintin",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"file	",
+				"Snippet: check_file_python"
+			],
+			[
+				"Snippet: ",
+				"Snippet: For Loop"
+			],
+			[
+				"anaconda got",
+				"Anaconda: Goto Python object"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"exit()",
+			"quit()",
+			"quit",
+			"exit",
+			"perl"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pirl/nicwolf/Documents/Python/Learning/testing/test_strings.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/PyGloss/pygloss/translate.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/PyGloss/Makefile",
+		"/home/pirl/nicwolf/Documents/Python/Learning/PyGloss/pygloss/__init__.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/howdoi/howdoi/howdoi.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/PyGloss/source/index.rst",
+		"/home/pirl/nicwolf/Documents/Python/Challenges/Google Code Jam/Lazy Spelling Bee/spelling_bee.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/PyGloss/source/conf.py",
+		"/home/pirl/nicwolf/Documents/Python/Challenges/Google Code Jam/alien_numbers.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/PyGloss/pygloss/google_code_jam.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/Documentation/an_example_pypi_project/useful_2.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/Documentation/an_example_pypi_project/__init__.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/Documentation/an_example_pypi_project/useful_1.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/Documentation/source/index.rst",
+		"/home/pirl/nicwolf/Documents/Python/Learning/Documentation/source/conf.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/Documentation/functions/__init__.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/Documentation/conf.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/Documentation/functions/useful_1.py",
+		"/home/pirl/nicwolf/Documents/IDL/Learning/bas01.pro",
+		"/apps/opt/rsi/idl_8.3_with_envi_5.1/idl83/lib/dist.pro",
+		"/data/cassis/Data/Commissioning/casssoft/Default/c_batch_sc_tm_packets.pro",
+		"/data/cassis/Data/Commissioning/casssoft/Default/c_top_batch_sc_tm_packets.pro",
+		"/home/pirl/nicwolf/CaSSIS/c_raw2isis/c_raw2isis.py",
+		"/home/pirl/nicwolf/Documents/Python/Learning/HiMosMerge.py",
+		"/home/pirl/nicwolf/HiRISE/EDRgen/EDRgen",
+		"/home/pirl/nicwolf/CaSSIS/c_raw2isis/test",
+		"/home/pirl/nicwolf/CaSSIS/c_raw2isis/test_ramp.dat",
+		"/home/pirl/nicwolf/CaSSIS/c_raw2isis/test_black1.dat",
+		"/home/pirl/nicwolf/CaSSIS/c_raw2isis/f",
+		"/home/pirl/nicwolf/CaSSIS/c_raw2isis/ramp",
+		"/home/pirl/nicwolf/CaSSIS/c_raw2isis/CAS-COM-2016-04-13T19.41.03.867-BLU-04000-00.xml",
+		"/home/pirl/nicwolf/CaSSIS/c_raw2isis/test_black.dat",
+		"/home/pirl/nicwolf/CaSSIS/c_raw2isis/transpose_fix",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/test_git/math.py",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/test_git/.git/COMMIT_EDITMSG",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/git_test/.git/COMMIT_EDITMSG",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/git_test/simplegit-progit/.git/MERGE_MSG",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/git_test/simplegit-progit/.git/COMMIT_EDITMSG",
+		"/home/pirl/nicwolf/CaSSIS/bin/c_xml",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/plot_windows/data/test_blue_data.xml",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/plot_windows/c_xml.py",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/plot_windows/parse_xml_windows.py",
+		"/home/pirl/nicwolf/CaSSIS/bin/c_plot_windows",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/c_xml.py",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/c_raw2isis/c_raw2isis.py",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/c_raw2isis.py",
+		"/Volumes/Free/nicwolf/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/home/pirl/nicwolf/Documents/Python/Learning/argparse_1.py",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/plot_windows.py",
+		"/home/pirl/nicwolf/CaSSIS/Scripts/parse_xml_windows.py",
+		"/home/pirl/nicwolf/Documents/template.py",
+		"/Volumes/Free/nicwolf/Library/Application Support/Sublime Text 3/Packages/User/check_file_python.sublime-snippet",
+		"/home/pirl/nicwolf/CaSSIS/Data/Commissioning/COM/160413_pointing_cassis/level0/CAS-COM-2016-04-13T19.36.30.201-DMP-00000-00.dat",
+		"/home/pirl/nicwolf/HiRISE/HiMosMerge/HiMosMerge",
+		"/Volumes/Free/nicwolf/Library/Application Support/Sublime Text 3/Packages/User/comment_line_python.sublime-snippet",
+		"/Volumes/Free/nicwolf/Library/Application Support/Sublime Text 3/Packages/User/hello",
+		"/Volumes/Free/nicwolf/Library/Application Support/Sublime Text 3/Packages/User/comment_line_python",
+		"/home/pirl/nicwolf/CaSSIS/Data/Commissioning/COM/160413_pointing_cassis/level0/CAS-COM-2016-04-13T19.41.03.867-MUL-02000-00.xml",
+		"/home/pirl/nicwolf/CaSSIS/Data/Commissioning/COM/160413_pointing_cassis/level0/CAS-COM-2016-04-13T19.41.03.867-MUL-01000-00.xml",
+		"/home/pirl/nicwolf/CaSSIS/Data/Commissioning/COM/160418_interference/level0/CAS-COM-2016-04-18T13.56.03.639-BLU-04000-00.dat",
+		"/home/pirl/nicwolf/CaSSIS/Data/Commissioning/COM/160418_interference/level0/CAS-COM-2016-04-18T13.50.29.973-DMP-00000-00.dat",
+		"/home/pirl/nicwolf/CaSSIS/Data/Commissioning/COM/160413_pointing_cassis/level0/CAS-COM-2016-04-13T19.41.03.867-BLU-04000-00.xml",
+		"/home/pirl/nicwolf/CaSSIS/Data/Commissioning/COM/160413_pointing_cassis/level0/CAS-COM-2016-04-13T19.36.30.201-DMP-00000-00.xml",
+		"/home/pirl/nicwolf/Documents/sphere_thing",
+		"/home/pirl/nicwolf/Documents/To Do",
+		"/home/pirl/nicwolf/Documents/Questions.txt",
+		"/home/pirl/nicwolf/HiRISE/HiDog/FEI_Fetch",
+		"/home/pirl/nicwolf/Documents/wilsons.py",
+		"/home/pirl/nicwolf/HiRISE/HiDog/HiDog.conf",
+		"/home/pirl/nicwolf/HiRISE/HiDog/HiDog_Watchdog",
+		"/home/pirl/nicwolf/test.py",
+		"/home/pirl/nicwolf/HiRISE/HiMosMerge/Troubleshooting/Data_Loss/Report.tex",
+		"/home/pirl/nicwolf/test.tex",
+		"/home/pirl/nicwolf/Downloads/report/writeup/writeup.tex",
+		"/home/pirl/nicwolf/HiRISE/HiMosMerge/Troubleshooting/Data_Loss/print.prt",
+		"/home/pirl/nicwolf/HiRISE/HiMosMerge/Troubleshooting/Data_Loss/report/Data/ESP/ORB_032100_032199/ESP_032100_1645/image_locations.csv",
+		"/home/pirl/nicwolf/HiRISE/HiMosMerge/Troubleshooting/Data_Loss/processing_files",
+		"/home/pirl/nicwolf/HiRISE/Configuration/HiMosMerge/HiMosMerge.conf",
+		"/Volumes/Free/nicwolf/Library/Application Support/Sublime Text 3/Packages/User/iPython.sublime-build",
+		"/home/pirl/nicwolf/HiRISE/HiMosMerge/Troubleshooting/Data_Loss/report/figs/ESP_032100_1645/img_location",
+		"/home/pirl/nicwolf/HiRISE/HiMosMerge/Troubleshooting/Data_Loss/report/code/stretch_graph.py",
+		"/Volumes/Free/nicwolf/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/home/pirl/nicwolf/Documents/test.py",
+		"/home/pirl/nicwolf/HiRISE/Configuration/HiMosMerge/HiMosMerge_zeroth.conf",
+		"/home/pirl/nicwolf/HiRISE/Data/RedMosaic/ESP/ORB_019200_019299/ESP_019259_1715/ESP_019259_1715_rgb.lis",
+		"/home/pirl/nicwolf/HiRISE/Data/RedMosaic/ESP/ORB_019200_019299/ESP_019259_1715/cubeit_list_process_irb",
+		"/home/pirl/nicwolf/HiRISE/Data/RedMosaic/ESP/ORB_019200_019299/ESP_019259_1715/cubeit_list",
+		"/home/pirl/nicwolf/HiRISE/Data/RedMosaic/ESP/ORB_019200_019299/ESP_019259_1715/histanalysis.pl",
+		"/home/pirl/nicwolf/Documents/Perl/Learning/test.pl",
+		"/home/pirl/nicwolf/Documents/Perl/Learning/text",
+		"/home/pirl/nicwolf/Documents/Text Editors/perl.sublime-build"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"small",
+			"-------",
+			"------",
+			"-----",
+			"small",
+			"base",
+			"unit",
+			"image",
+			"frame_data",
+			"out_directory",
+			"min",
+			"error_string",
+			"[",
+			"1,2,3,4,5]",
+			"1",
+			"out_file",
+			"in_file",
+			"----------------------------------------------------------------------------",
+			"out_file",
+			"in_file",
+			"output_file",
+			"input_file",
+			"i + 1",
+			"window",
+			"window_number",
+			"==========================================================================",
+			": {",
+			" :",
+			"text",
+			"= ",
+			"window_index",
+			"window_attr",
+			"windows",
+			"window_number",
+			"window_legend",
+			"window_hatch_styles",
+			"------------------------------------------------------------------------",
+			"----------------------------------------------------------------------------",
+			"tree",
+			"i + 1",
+			"Col",
+			"col",
+			"i + 1",
+			"ehk_header",
+			"NUM_WINDOWS",
+			"input_file",
+			"file_path",
+			"-------------------------------------------------------------------------------",
+			"# --",
+			"---------------------------------",
+			"--------------------------------",
+			"-------------------------------",
+			"------------------------------",
+			"-----------------------------",
+			"----------------------------",
+			"---------------------------",
+			"--------------------------",
+			"-------------------------",
+			"------------------------",
+			"-----------------------",
+			"----------------------",
+			"---------------------",
+			"--------------------",
+			"-------------------",
+			"------------------",
+			" -----------------------------------------------------------------------------",
+			",",
+			" :",
+			":",
+			"###",
+			"### ----------------------------------------------------------------------------",
+			"window",
+			"0",
+			"1",
+			"getcompression",
+			"CHILD_ERROR",
+			"getbyte",
+			"create",
+			"verbose",
+			"Data/ESP",
+			"png",
+			"Data/ESP",
+			"Data/ESP_032100_1645",
+			"Data/ESP_019259_1715",
+			"../figs/E",
+			"	",
+			"a database err",
+			"reduce_factor",
+			"err_str",
+			"ESP_032100_1645",
+			"ORB_032100_032199",
+			"processred",
+			"000",
+			".000",
+			"0.000",
+			"$tfile_mirb_thumb",
+			"getinput",
+			"OROOT",
+			"productversioning",
+			"0.141554",
+			"red.band3",
+			"red.band1",
+			"processRed",
+			"0.0595247",
+			"0.102131",
+			".cnode14:13641",
+			"/tmp",
+			"/HiRISE/Data/RedMosaic/ESP/ORB_019200_019299/ESP_019259_1715/",
+			"makejpegs",
+			"pvlgetke",
+			"band",
+			"munge",
+			"makeratio",
+			"getfr",
+			"$reduce_factor",
+			"$HiMosMerge_Ratio_Reduce",
+			"makeratios",
+			"rat_tfile1+3",
+			"makeratios",
+			"hit",
+			"reduceMap",
+			"getconf",
+			"GetConf",
+			"getconf",
+			"pvlgetkeyval",
+			"pvl",
+			"getconf",
+			"Make_Path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "pygloss.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

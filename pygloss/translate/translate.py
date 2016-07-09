@@ -19,7 +19,7 @@ TODO
 """
 
 
-def translate_integer(number, source, target):
+def translate_integer_string(number, source, target):
     r"""Translate a numeric string from one numeral system to another.
 
     From the original problem:
@@ -48,6 +48,11 @@ def translate_integer(number, source, target):
     Returns
     ----------
     translated_number : string
+    
+    Raises
+    ----------
+    TypeError
+        If the 
 
     Notes
     ----------
