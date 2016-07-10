@@ -7,5 +7,5 @@ setup(name='Distutils',
 	  description='PyGloss',
 	  author='Nicholas Wolf',
 	  url='https://www.nicwolf.me',
-	  packages=['pygloss'],
+	  packages=['pygloss','pygloss.translate'],
 	 )
